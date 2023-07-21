@@ -1,0 +1,17 @@
+com\agit\test\recruitment\service\PeminjamanService.class
+com\agit\test\recruitment\dto\PeminjamAssembler.class
+com\agit\test\recruitment\repository\PeminjamanRepository.class
+com\agit\test\recruitment\domain\Buku.class
+com\agit\test\recruitment\rest\PeminjamanRestController.class
+com\agit\test\recruitment\common\IObjectAssembler.class
+com\agit\test\recruitment\repository\BukuRepository.class
+com\agit\test\recruitment\dto\ResponseDTO.class
+com\agit\test\recruitment\dto\BukuAssembler.class
+com\agit\test\recruitment\dto\ResponseBukuGetDTO.class
+com\agit\test\recruitment\domain\Peminjaman.class
+com\agit\test\recruitment\rest\BukuRestController.class
+com\agit\test\recruitment\MainApplication.class
+com\agit\test\recruitment\config\SwaggerConfig.class
+com\agit\test\recruitment\dto\RequestBukuDTO.class
+com\agit\test\recruitment\service\BukuService.class
+com\agit\test\recruitment\dto\RequestPeminjamDTO.class

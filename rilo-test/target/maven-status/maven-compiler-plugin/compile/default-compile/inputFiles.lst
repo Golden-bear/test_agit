@@ -1,0 +1,17 @@
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\ResponseBukuGetDTO.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\repository\PeminjamanRepository.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\domain\Peminjaman.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\BukuAssembler.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\common\IObjectAssembler.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\MainApplication.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\PeminjamAssembler.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\RequestBukuDTO.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\ResponseDTO.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\service\BukuService.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\config\SwaggerConfig.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\rest\BukuRestController.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\domain\Buku.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\service\PeminjamanService.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\repository\BukuRepository.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\rest\PeminjamanRestController.java
+F:\javaProject\tes_int\rilo-test\src\main\java\com\agit\test\recruitment\dto\RequestPeminjamDTO.java

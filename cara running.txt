@@ -1,0 +1,4 @@
+cara running spring boot :
+mvn spring-boot:run atau jika buka di netbeans langsung klik kanan di rilo-test dan pilih run mavan lalu run
+
+install juga postgresql dan pgadmin nya
